@@ -1,1 +1,2 @@
 Hallo, dit is versie 1 van klaas3.txt
+verandering voor stap 7 deel 2
