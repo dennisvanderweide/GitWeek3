@@ -1,2 +1,4 @@
 Hallo, dit is versie 1 van dennis1.txt
 Extra regel voor versie 2 van dennis1.txt
+
+VOOR DE WIJZIGINGEN BIJ STAP 5 DEEL 2
