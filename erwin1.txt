@@ -1,3 +1,5 @@
 Hallo, dit is versie 0.1 van erwin1.txt
 
 EXTRA INFORMATIE versie 0.2
+
+VOOR DE WIJZIGINGEN BIJ STAP 5 DEEL 2
