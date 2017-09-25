@@ -1,2 +1,7 @@
 Nieuwe bestand eigen branch
+<<<<<<< HEAD
 verandering voor stap 7
+=======
+
+verandering stap 7
+>>>>>>> 14864769f8d4c0ec6c4746328480e379ff7e3dc9
